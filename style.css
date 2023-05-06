@@ -1,0 +1,40 @@
+.button{
+
+    width: 200px;
+    background-color: #ffff00;
+    margin: 50px 10px 25px 10px;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+
+}
+.heading{
+
+    text-decoration: underline;
+    border: 1px solid gray;
+    padding: 15px 5px  30px 5px;
+    border-radius: 10px;
+    margin: 10px 20px;
+
+
+
+
+
+
+
+}
+.try{
+    width: 150px;
+}
+.rect{
+
+    width: 190px;
+}
+.eli{
+
+
+    width: 230px;
+}
+.para{
+    width: 210px;
+}
